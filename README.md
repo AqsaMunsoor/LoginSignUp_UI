@@ -1,6 +1,6 @@
 # login_signup_ui
 
-Converted UI to Flutter Code. Images Output Image Taken from Behance
+Converted UI to Flutter Code. Output Image Taken from Behance
 
 ## Getting Started
 
